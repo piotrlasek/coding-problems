@@ -2,7 +2,7 @@
     Author:      Piotr Lasek
     Date:        23 November 2019
     Description: A solution for the "Largest Rectangular Area in a Histogram" 
-                 problem
+                 problem.
 """
 
 
